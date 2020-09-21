@@ -1,0 +1,6 @@
+processes in queue, burst time, arrival time
+p0,6,2
+p1,2,5
+p2,8,1
+p3,3,0
+p4,4,4
